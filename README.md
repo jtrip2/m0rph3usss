@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1>Hi, I'm James!</h1>
 
-<!--
-**m0rph3usss/m0rph3usss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Cybersecurity Projects</h2>
 
-Here are some ideas to get you started:
+- Soon
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2> Write ups (from Tryhackme and Hackthebox)</h2>
+
+- Soon
+
+
+<h2> Certifications</h2>
+
+- CompTIA Security+ 601 (Obtained 11/5/23)
+
+
+<h2> Current Statuses </h2>
+
+- 🔭 I’m currently working on: Tryhackme's Pre Secuirty Path
+- 🌱 I’m currently learning: Networking (Networking Basics for Hackers by Occupy The Web)
+- ⚡ Fun fact: Im a fitness junkie
